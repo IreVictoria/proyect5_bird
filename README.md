@@ -1,3 +1,5 @@
+[![banner.png](https://i.postimg.cc/RZyJQ6GR/banner.png)](https://postimg.cc/FYbKhKMd)
+
 # Proyecto n°5: "Aplicación web con React."
 
 <p>
@@ -46,19 +48,19 @@ En este proyecto se dará a conocer la construcción de una aplicación web basa
 1. Creación del proyecto utilizando la terminal y los comandos correspondientes.
 
 
-foto
+[![terminal.png](https://i.postimg.cc/pTt94ww5/terminal.png)](https://postimg.cc/QB0xWyxj)
 
 
 
 2. Una vez creado el proyecto debemos instalar todas las librerías y framwork a utilizar en el código.
 
+[![1-5-5-instalacion.png](https://i.postimg.cc/j2xDdzds/1-5-5-instalacion.png)](https://postimg.cc/1ndmvVqT)
 
-foto
 
 3. Estructuración del proyecto, creamos las carpetas y archivos correspondientes para poder comenzar a escribir el código de forma organizada.
 
 
-foto
+[![Captura-de-pantalla-2024-08-24-001033.png](https://i.postimg.cc/02NzTdBn/Captura-de-pantalla-2024-08-24-001033.png)](https://postimg.cc/9zvXTTVw)
 
 
 
@@ -86,7 +88,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 5. Luego creamos cada uno de los componentes funcionales en el código y lo que utilizáremos para construir la `Aplicación web con React`.
 
 
--Error Boundary: 
+- Error Boundary: 
 
 
 ```javascript
@@ -127,7 +129,7 @@ export default ErrorBoundary;
 ```
 
 
--Footer:
+- Footer:
 
 
 ```javascript
@@ -196,7 +198,7 @@ export default Footer;
 
 ```
 
--Hero: 
+- Hero: 
 
 
 ```javascript
@@ -226,7 +228,7 @@ export default Hero;
 
 ```
 
--NavBar: 
+- NavBar: 
 
 
 ```javascript
