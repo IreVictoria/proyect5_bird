@@ -430,21 +430,28 @@ Finalmente, nuestro proyecto queda de esta forma organizado y estructurado por p
 
 - Barra de navegación.
 
-foto
+[![navbar.png](https://i.postimg.cc/90QfjCJ0/navbar.png)](https://postimg.cc/ft1scn4Q)
+
 
 - Hero.
 
-foto
+[![hero.png](https://i.postimg.cc/d3NVspxB/hero.png)](https://postimg.cc/MfRStPxM)
+
 
 - Barra de navegación --> Inicio --> Aves.
 
-foto 
+[![inicio.png](https://i.postimg.cc/SQgsfYxM/inicio.png)](https://postimg.cc/Z0y4TR3b)
 
-- Tabla del listado de aves por orden alfabético. 
 
-foto.
+- Tabla del listado de aves por orden alfabético.
+  
 
-- footer. 
+[![tabla.png](https://i.postimg.cc/SNjKTQnt/tabla.png)](https://postimg.cc/HVDHjg4Q)
 
-foto 
+
+- footer.
+  
+
+[![footer.png](https://i.postimg.cc/VkCkw7Bq/footer.png)](https://postimg.cc/k27mFvHG)
+
 
