@@ -12,7 +12,7 @@ En este proyecto se dará a conocer la construcción de una aplicación web basa
 ------------
 
 
-### Requisitos del proyecto. 
+## Requisitos del proyecto. 
 
 
 ------------
@@ -39,7 +39,7 @@ En este proyecto se dará a conocer la construcción de una aplicación web basa
 ------------
 
 
-### Construcción del proyecto paso a paso. 
+## Construcción del proyecto paso a paso. 
 
 
 ------------
@@ -417,7 +417,7 @@ export default App;
 ------------
 
 
-### Aplicación web React. 
+## Aplicación web React. 
 
 
 ------------
