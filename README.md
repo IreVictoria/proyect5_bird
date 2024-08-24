@@ -443,10 +443,18 @@ Finalmente, nuestro proyecto queda de esta forma organizado y estructurado por p
 [![inicio.png](https://i.postimg.cc/SQgsfYxM/inicio.png)](https://postimg.cc/Z0y4TR3b)
 
 
-- Tabla del listado de aves por orden alfabético.
+- Tabla del listado de aves por orden alfabético. 
   
 
 [![tabla.png](https://i.postimg.cc/SNjKTQnt/tabla.png)](https://postimg.cc/HVDHjg4Q)
+
+
+- Al seleccionar el Ave se abre un `modal` el cual contiene información del ave, su nombre en español, en inglés, nombre científico y su imagen.
+
+
+[![pajaro.png](https://i.postimg.cc/pTq2C3RH/pajaro.png)](https://postimg.cc/XGBS7HrH)
+
+
 
 
 - footer.
