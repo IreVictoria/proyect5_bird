@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import pajarito from "../images/Social_Twitter_animal_bird_2600.png"
 
 function NavBar() {
     return (
@@ -7,7 +8,7 @@ function NavBar() {
             <div className="navbar bg-gray-800 text-white text-lg shadow-lg">
                 <div className="flex-1 flex items-center"> {/* flex y items-center para alinear los elementos */}
                     <div className="w-16 h-16 mr-2 overflow-hidden rounded-full border border-white"> {/* Contenedor de la imagen */}
-                        <img src="../images/Social_Twitter_animal_bird_2600.png" alt="Icon" className="object-cover w-full h-full"/> {/* Ajusta la clase object-cover */}
+                        <img src={pajarito} alt="Icon" className="object-cover w-full h-full"/> {/* Ajusta la clase object-cover */}
                     </div>
                     <a className="btn btn-ghost text-3xl font-sans">Consumo de una API con React</a>
                 </div>

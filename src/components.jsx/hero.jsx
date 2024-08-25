@@ -1,4 +1,5 @@
 import React from "react";
+import pajaro from "../images/pajaro-sentado-arbol_1048944-15228193.jpg"
 
 function Hero() {
     return (
@@ -6,7 +7,7 @@ function Hero() {
             <div className="hero bg-base-200 min-h-screen">
                 <div className="hero-content flex-col lg:flex-row-reverse">
                     <img
-                        src="../images/pajaro-sentado-arbol_1048944-15228193.jpg" alt="Images of bird"
+                        src={pajaro} alt="Images of bird"
                         className="max-w-sm rounded-lg shadow-2xl" />
                     <div>
                         <h1 className="text-6xl font-serif"> Aves de Chile. </h1>
