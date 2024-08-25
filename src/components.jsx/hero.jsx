@@ -6,7 +6,7 @@ function Hero() {
             <div className="hero bg-base-200 min-h-screen">
                 <div className="hero-content flex-col lg:flex-row-reverse">
                     <img
-                        src="src\images\pajaro-sentado-arbol_1048944-15228193.jpg" alt="Images of bird"
+                        src="../images/pajaro-sentado-arbol_1048944-15228193.jpg" alt="Images of bird"
                         className="max-w-sm rounded-lg shadow-2xl" />
                     <div>
                         <h1 className="text-6xl font-serif"> Aves de Chile. </h1>
